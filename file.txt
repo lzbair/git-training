@@ -1,5 +1,2 @@
 
 Hello, world - yassirAhmed
-Stash
-
-cherry-pick yassirAhmed
